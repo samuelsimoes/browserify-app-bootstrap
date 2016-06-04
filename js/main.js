@@ -1,4 +1,4 @@
-import { React } from "./libs";
+import React from "react";
 import Hello from "./hello";
 import ReactDOM from "react-dom";
 
