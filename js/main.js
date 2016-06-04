@@ -1,7 +1,8 @@
 import { React } from "./libs";
 import Hello from "./hello";
+import ReactDOM from "react-dom";
 
-React.render(
+ReactDOM.render(
   React.createElement(Hello),
   document.getElementById("app")
 );
